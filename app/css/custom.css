@@ -341,7 +341,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9447a5', end
 .search-view .panel-product-list .well {
     height: auto;
 }
-
+.panel-primary .panel-heading .panel-title {
+    background-color: #552261
+}
 
 .panel-category-list ul li .well {
     height: 245px;
@@ -351,6 +353,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9447a5', end
     position: relative;
     margin-bottom: 15px;
 }
+
+.btn-success, .btn-success:hover {
+    background-color: #9447a5;
+    border-color: #9447a5;
+}
+
+.order-cloud .form-signin {
+
+    background: #fbebff none repeat scroll 0 0;
+}
+
 
 /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9447a5+0,552261+100
 background: #9447a5; /* Old browsers

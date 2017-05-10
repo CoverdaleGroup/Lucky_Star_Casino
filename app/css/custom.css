@@ -359,6 +359,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9447a5', end
     border-color: #9447a5;
 }
 
+#451qa_prod_desc ul {
+
+    list-style-type: disc;
+    padding: 15px;
+}
+
 .order-cloud .form-signin {
 
     background: #fbebff none repeat scroll 0 0;
